@@ -1,3 +1,5 @@
+# A Simple React page to simulate opening Berserk TCG Packs 
+I got the images from here [X](https://web.archive.org/web/20220510105443/http://berserk-tcg.net/) 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
