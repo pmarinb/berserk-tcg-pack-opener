@@ -63,9 +63,6 @@ function MyComponent() {
       <div className="my-div">
         <div className="element1">
           <div className="centered-content">
-            {isModalOpen && (
-              <Modal onClose={closeModal} cardPulls={cardPulls}></Modal>
-            )}
             <button className="red-button" onClick={() => handlePulls()}>
               Open A Pack
             </button>
@@ -85,6 +82,9 @@ function MyComponent() {
           />
         ))}
       </div>
+      {isModalOpen && (
+        <Modal onClose={closeModal} cardPulls={cardPulls}></Modal>
+      )}
     </div>
   );
 }
