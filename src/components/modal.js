@@ -8,7 +8,7 @@ const Modal = ({ isOpen, onClose, cardPulls }) => {
   return (
     <div className="modal-overlay">
       <div className="modal-content">
-        <button className="modal-close" onClick={onClose}>
+        <button className="sticky-button" onClick={onClose}>
           ❌
         </button>
         <h2 className="red">Your Pulls</h2>
