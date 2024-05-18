@@ -1,38 +1,167 @@
-.App {
-  text-align: center;
-}
+.App{
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  background-color: black;
+  padding: 20px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.cards-grid {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+
+  
+}
+.cardWrap{
+  padding: 2px;
+}
+.cards-horizontal {
+  display: flex;
+  overflow-x: auto;
+
+}
+
+.card {
+  width: 200px;
+  height: 300px;
+  background-color: #f0f0f0;
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.holo-overlay {
+  position: absolute;
+  top: -100%;
+  left: -100%;
+  width: 200%;
+  height: 200%;
+  background-image: 
+  linear-gradient(to right, 
+  hsl(0, 100%, 60%) 0%, 
+  hsl(60, 100%, 60%) 20%, 
+  hsl(120, 100%, 60%) 40%, 
+  hsl(180, 100%, 60%) 60%, 
+  hsl(240, 100%, 60%) 80%, 
+  hsl(300, 100%, 60%) 100%
+),
+linear-gradient(to bottom, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0) 50%, rgba(255,255,255,0.2) 100%);
+animation: shimmer 2s infinite alternate;
+opacity: .2;
+}
+
+@keyframes shimmer {
+from { background-position: 0 0; }
+to { background-position: 200px 200px; }
+}
+
+.card img {
+  width: 200px;
+  height: 300px;
+  border-radius: 10px 10px 0 0; 
+}
+
+.content {
+  padding: 1px;
+  text-align: center;
+  
+}
+
+
+@keyframes rainbow {
+  0% {
+      background-position: 0% 50%;
+  }
+  50% {
+      background-position: 100% 50%;
+  }
+  100% {
+      background-position: 0% 50%;
+  }
+}
+
+/* Apply styles to the rainbow text */
+.parallel {
+  list-style: disc;
+  font-weight: bold; /* Optional: Apply bold font */
+  background: 
+  linear-gradient(to right, 
+  hsl(0, 100%, 60%) 0%, 
+  hsl(60, 100%, 60%) 20%, 
+  hsl(120, 100%, 60%) 40%, 
+  hsl(180, 100%, 60%) 60%, 
+  hsl(240, 100%, 60%) 80%, 
+  hsl(300, 100%, 60%) 100%
+),
+linear-gradient(to bottom, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0) 50%, rgba(255,255,255,0.2) 100%);
+
+  -webkit-background-clip: text; /* Clip the text to the gradient */
+  -webkit-text-fill-color: transparent; /* Hide the original text color */
+  background-size: 150% auto; /* Increase background size for animation effect */
+  animation: shimmer 2s infinite alternate; /* Apply the rainbow animation */
+}
+
+
+
+.common {
+  color: #B87333;
+}
+
+.uncommon {
+  color: #C0C0C0;
+}
+
+.rare {
+  color: #FFD700;
+}
+
+.red{
+  color: red;
+}
+
+.red-button {
+  background-color: red;
   color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
 }
 
-.App-link {
-  color: #61dafb;
+.red-button:hover {
+  background-color: darkred;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.red-button:active {
+  background-color: crimson;
+}
+
+.red-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(255, 0, 0, 0.5);
+}
+
+.my-div {
+  display: flex;
+}
+
+.element1 {
+
+  flex: 0 0 80%;
+ 
+}
+
+.element2 {
+  flex: 0 0 20%;
+}
+
+.centered-content {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  width: 100%;
+  height: 100%;
 }
