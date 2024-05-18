@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/berserk-tcg-pack-opener/static/css/main.ea5da94f.css",
-    "main.js": "/berserk-tcg-pack-opener/static/js/main.8cbab1af.js",
+    "main.css": "/berserk-tcg-pack-opener/static/css/main.d3601d9e.css",
+    "main.js": "/berserk-tcg-pack-opener/static/js/main.2f7647dd.js",
     "static/js/453.b2c99ab0.chunk.js": "/berserk-tcg-pack-opener/static/js/453.b2c99ab0.chunk.js",
     "static/media/bk1-128p.jpg": "/berserk-tcg-pack-opener/static/media/bk1-128p.094b1d4fccd2ab8bc8a7.jpg",
     "static/media/bk1-129p.jpg": "/berserk-tcg-pack-opener/static/media/bk1-129p.a2ff5382bb1014b34376.jpg",
@@ -207,12 +207,12 @@
     "static/media/bk1-076.jpg": "/berserk-tcg-pack-opener/static/media/bk1-076.851b69885362230cb55b.jpg",
     "index.html": "/berserk-tcg-pack-opener/index.html",
     "static/media/noise.svg": "/berserk-tcg-pack-opener/static/media/noise.9351e778713ad8df3ef4.svg",
-    "main.ea5da94f.css.map": "/berserk-tcg-pack-opener/static/css/main.ea5da94f.css.map",
-    "main.8cbab1af.js.map": "/berserk-tcg-pack-opener/static/js/main.8cbab1af.js.map",
+    "main.d3601d9e.css.map": "/berserk-tcg-pack-opener/static/css/main.d3601d9e.css.map",
+    "main.2f7647dd.js.map": "/berserk-tcg-pack-opener/static/js/main.2f7647dd.js.map",
     "453.b2c99ab0.chunk.js.map": "/berserk-tcg-pack-opener/static/js/453.b2c99ab0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea5da94f.css",
-    "static/js/main.8cbab1af.js"
+    "static/css/main.d3601d9e.css",
+    "static/js/main.2f7647dd.js"
   ]
 }
