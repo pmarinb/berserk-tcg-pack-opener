@@ -3,7 +3,7 @@ I got the images from here [X](https://web.archive.org/web/20220510105443/http:/
 # TODO
 - [x] Add support for more collections
 - [ ] Add the rest of collection, current 2/5
-- [ ] Add "NEW" to cards when not in collection
+- [ ] Add "NEW" to cards when pulled and not in collection
 - [ ] Make it responsive
 - [ ] Add Local Storage for persistante data
 
