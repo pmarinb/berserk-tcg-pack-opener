@@ -13,6 +13,23 @@ const getClassForItem = (itemValue) => {
   }
 };
 
+const getCollection = (itemValue) => {
+  switch (itemValue) {
+    case 0:
+      return "BK1";
+    case 1:
+      return "BK2";
+    case 2:
+      return "BK3";
+    case 3:
+      return "BK4";
+    case 4:
+      return "BK5";
+    default:
+      return "BK1";
+  }
+};
+
 //get a random number of cards from the given list, each rarity has a list of cards
 //it avoids duplicated cards
 function getRandomElements(list, numElements) {
@@ -55,4 +72,4 @@ function pullCards(rarities, cards) {
   }, []);
 }
 
-export { getClassForItem, getRandomElements, pullCards };
+export { getClassForItem, getRandomElements, pullCards, getCollection };

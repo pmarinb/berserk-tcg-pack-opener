@@ -216,1205 +216,2390 @@
       "cards": [
         {
           "id": "bk1001",
+          "collection": "bk1",
           "number": 1,
           "filename": "bk1-001.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1002",
+          "collection": "bk1",
           "number": 2,
           "filename": "bk1-002.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1003",
+          "collection": "bk1",
           "number": 3,
           "filename": "bk1-003.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1004",
+          "collection": "bk1",
           "number": 4,
           "filename": "bk1-004.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1005",
+          "collection": "bk1",
           "number": 5,
           "filename": "bk1-005.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1006",
+          "collection": "bk1",
           "number": 6,
           "filename": "bk1-006.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1007",
+          "collection": "bk1",
           "number": 7,
           "filename": "bk1-007.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1008",
+          "collection": "bk1",
           "number": 8,
           "filename": "bk1-008.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1009",
+          "collection": "bk1",
           "number": 9,
           "filename": "bk1-009.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1009p",
+          "collection": "bk1",
           "number": 9,
           "filename": "bk1-009p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1010",
+          "collection": "bk1",
           "number": 10,
           "filename": "bk1-010.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1010p",
+          "collection": "bk1",
           "number": 10,
           "filename": "bk1-010p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1011",
+          "collection": "bk1",
           "number": 11,
           "filename": "bk1-011.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1012",
+          "collection": "bk1",
           "number": 12,
           "filename": "bk1-012.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1012p",
+          "collection": "bk1",
           "number": 12,
           "filename": "bk1-012p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1013",
+          "collection": "bk1",
           "number": 13,
           "filename": "bk1-013.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1014",
+          "collection": "bk1",
           "number": 14,
           "filename": "bk1-014.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1014p",
+          "collection": "bk1",
           "number": 14,
           "filename": "bk1-014p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1015",
+          "collection": "bk1",
           "number": 15,
           "filename": "bk1-015.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1016",
+          "collection": "bk1",
           "number": 16,
           "filename": "bk1-016.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1016p",
+          "collection": "bk1",
           "number": 16,
           "filename": "bk1-016p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1017",
+          "collection": "bk1",
           "number": 17,
           "filename": "bk1-017.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1018",
+          "collection": "bk1",
           "number": 18,
           "filename": "bk1-018.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1018p",
+          "collection": "bk1",
           "number": 18,
           "filename": "bk1-018p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1019",
+          "collection": "bk1",
           "number": 19,
           "filename": "bk1-019.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1020",
+          "collection": "bk1",
           "number": 20,
           "filename": "bk1-020.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1020p",
+          "collection": "bk1",
           "number": 20,
           "filename": "bk1-020p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1021",
+          "collection": "bk1",
           "number": 21,
           "filename": "bk1-021.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1022",
+          "collection": "bk1",
           "number": 22,
           "filename": "bk1-022.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1022p",
+          "collection": "bk1",
           "number": 22,
           "filename": "bk1-022p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1023",
+          "collection": "bk1",
           "number": 23,
           "filename": "bk1-023.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1024",
+          "collection": "bk1",
           "number": 24,
           "filename": "bk1-024.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1025",
+          "collection": "bk1",
           "number": 25,
           "filename": "bk1-025.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1026",
+          "collection": "bk1",
           "number": 26,
           "filename": "bk1-026.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1027",
+          "collection": "bk1",
           "number": 27,
           "filename": "bk1-027.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1028",
+          "collection": "bk1",
           "number": 28,
           "filename": "bk1-028.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1029",
+          "collection": "bk1",
           "number": 29,
           "filename": "bk1-029.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1029p",
+          "collection": "bk1",
           "number": 29,
           "filename": "bk1-029p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1030",
+          "collection": "bk1",
           "number": 30,
           "filename": "bk1-030.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1031",
+          "collection": "bk1",
           "number": 31,
           "filename": "bk1-031.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1032",
+          "collection": "bk1",
           "number": 32,
           "filename": "bk1-032.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1033",
+          "collection": "bk1",
           "number": 33,
           "filename": "bk1-033.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1034",
+          "collection": "bk1",
           "number": 34,
           "filename": "bk1-034.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1035",
+          "collection": "bk1",
           "number": 35,
           "filename": "bk1-035.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1036",
+          "collection": "bk1",
           "number": 36,
           "filename": "bk1-036.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1037",
+          "collection": "bk1",
           "number": 37,
           "filename": "bk1-037.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1038",
+          "collection": "bk1",
           "number": 38,
           "filename": "bk1-038.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1038p",
+          "collection": "bk1",
           "number": 38,
           "filename": "bk1-038p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1039",
+          "collection": "bk1",
           "number": 39,
           "filename": "bk1-039.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1040",
+          "collection": "bk1",
           "number": 40,
           "filename": "bk1-040.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1041",
+          "collection": "bk1",
           "number": 41,
           "filename": "bk1-041.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1042",
+          "collection": "bk1",
           "number": 42,
           "filename": "bk1-042.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1043",
+          "collection": "bk1",
           "number": 43,
           "filename": "bk1-043.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1044",
+          "collection": "bk1",
           "number": 44,
           "filename": "bk1-044.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1044p",
+          "collection": "bk1",
           "number": 44,
           "filename": "bk1-044p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1045",
+          "collection": "bk1",
           "number": 45,
           "filename": "bk1-045.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1045p",
+          "collection": "bk1",
           "number": 45,
           "filename": "bk1-045p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1046",
+          "collection": "bk1",
           "number": 46,
           "filename": "bk1-046.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1046p",
+          "collection": "bk1",
           "number": 46,
           "filename": "bk1-046p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1047",
+          "collection": "bk1",
           "number": 47,
           "filename": "bk1-047.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1048",
+          "collection": "bk1",
           "number": 48,
           "filename": "bk1-048.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1048p",
+          "collection": "bk1",
           "number": 48,
           "filename": "bk1-048p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1049",
+          "collection": "bk1",
           "number": 49,
           "filename": "bk1-049.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1050",
+          "collection": "bk1",
           "number": 50,
           "filename": "bk1-050.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1050p",
+          "collection": "bk1",
           "number": 50,
           "filename": "bk1-050p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1051",
+          "collection": "bk1",
           "number": 51,
           "filename": "bk1-051.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1052",
+          "collection": "bk1",
           "number": 52,
           "filename": "bk1-052.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1052p",
+          "collection": "bk1",
           "number": 52,
           "filename": "bk1-052p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1053",
+          "collection": "bk1",
           "number": 53,
           "filename": "bk1-053.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1054",
+          "collection": "bk1",
           "number": 54,
           "filename": "bk1-054.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1054p",
+          "collection": "bk1",
           "number": 54,
           "filename": "bk1-054p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1055",
+          "collection": "bk1",
           "number": 55,
           "filename": "bk1-055.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1056",
+          "collection": "bk1",
           "number": 56,
           "filename": "bk1-056.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1056p",
+          "collection": "bk1",
           "number": 56,
           "filename": "bk1-056p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1057",
+          "collection": "bk1",
           "number": 57,
           "filename": "bk1-057.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1058",
+          "collection": "bk1",
           "number": 58,
           "filename": "bk1-058.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1059",
+          "collection": "bk1",
           "number": 59,
           "filename": "bk1-059.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1060",
+          "collection": "bk1",
           "number": 60,
           "filename": "bk1-060.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1061",
+          "collection": "bk1",
           "number": 61,
           "filename": "bk1-061.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1061p",
+          "collection": "bk1",
           "number": 61,
           "filename": "bk1-061p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1062",
+          "collection": "bk1",
           "number": 62,
           "filename": "bk1-062.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1063",
+          "collection": "bk1",
           "number": 63,
           "filename": "bk1-063.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1064",
+          "collection": "bk1",
           "number": 64,
           "filename": "bk1-064.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1065",
+          "collection": "bk1",
           "number": 65,
           "filename": "bk1-065.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1066",
+          "collection": "bk1",
           "number": 66,
           "filename": "bk1-066.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1066p",
+          "collection": "bk1",
           "number": 66,
           "filename": "bk1-066p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1067",
+          "collection": "bk1",
           "number": 67,
           "filename": "bk1-067.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1068",
+          "collection": "bk1",
           "number": 68,
           "filename": "bk1-068.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1069",
+          "collection": "bk1",
           "number": 69,
           "filename": "bk1-069.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1070",
+          "collection": "bk1",
           "number": 70,
           "filename": "bk1-070.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1071",
+          "collection": "bk1",
           "number": 71,
           "filename": "bk1-071.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1072",
+          "collection": "bk1",
           "number": 72,
           "filename": "bk1-072.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1073",
+          "collection": "bk1",
           "number": 73,
           "filename": "bk1-073.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1074",
+          "collection": "bk1",
           "number": 74,
           "filename": "bk1-074.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1075",
+          "collection": "bk1",
           "number": 75,
           "filename": "bk1-075.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1076",
+          "collection": "bk1",
           "number": 76,
           "filename": "bk1-076.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1077",
+          "collection": "bk1",
           "number": 77,
           "filename": "bk1-077.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1078",
+          "collection": "bk1",
           "number": 78,
           "filename": "bk1-078.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1079",
+          "collection": "bk1",
           "number": 79,
           "filename": "bk1-079.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1080",
+          "collection": "bk1",
           "number": 80,
           "filename": "bk1-080.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1081",
+          "collection": "bk1",
           "number": 81,
           "filename": "bk1-081.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1082",
+          "collection": "bk1",
           "number": 82,
           "filename": "bk1-082.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1083",
+          "collection": "bk1",
           "number": 83,
           "filename": "bk1-083.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1084",
+          "collection": "bk1",
           "number": 84,
           "filename": "bk1-084.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1085",
+          "collection": "bk1",
           "number": 85,
           "filename": "bk1-085.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1086",
+          "collection": "bk1",
           "number": 86,
           "filename": "bk1-086.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1087",
+          "collection": "bk1",
           "number": 87,
           "filename": "bk1-087.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1088",
+          "collection": "bk1",
           "number": 88,
           "filename": "bk1-088.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1089",
+          "collection": "bk1",
           "number": 89,
           "filename": "bk1-089.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1090",
+          "collection": "bk1",
           "number": 90,
           "filename": "bk1-090.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1091",
+          "collection": "bk1",
           "number": 91,
           "filename": "bk1-091.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1092",
+          "collection": "bk1",
           "number": 92,
           "filename": "bk1-092.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1093",
+          "collection": "bk1",
           "number": 93,
           "filename": "bk1-093.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1094",
+          "collection": "bk1",
           "number": 94,
           "filename": "bk1-094.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1095",
+          "collection": "bk1",
           "number": 95,
           "filename": "bk1-095.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1096",
+          "collection": "bk1",
           "number": 96,
           "filename": "bk1-096.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1096p",
+          "collection": "bk1",
           "number": 96,
           "filename": "bk1-096p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1097",
+          "collection": "bk1",
           "number": 97,
           "filename": "bk1-097.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1097p",
+          "collection": "bk1",
           "number": 97,
           "filename": "bk1-097p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1098",
+          "collection": "bk1",
           "number": 98,
           "filename": "bk1-098.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1099",
+          "collection": "bk1",
           "number": 99,
           "filename": "bk1-099.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1100",
+          "collection": "bk1",
           "number": 100,
           "filename": "bk1-100.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1101",
+          "collection": "bk1",
           "number": 101,
           "filename": "bk1-101.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1101p",
+          "collection": "bk1",
           "number": 101,
           "filename": "bk1-101p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1102",
+          "collection": "bk1",
           "number": 102,
           "filename": "bk1-102.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1102p",
+          "collection": "bk1",
           "number": 102,
           "filename": "bk1-102p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1103",
+          "collection": "bk1",
           "number": 103,
           "filename": "bk1-103.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1104",
+          "collection": "bk1",
           "number": 104,
           "filename": "bk1-104.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1104p",
+          "collection": "bk1",
           "number": 104,
           "filename": "bk1-104p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1105",
+          "collection": "bk1",
           "number": 105,
           "filename": "bk1-105.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1105p",
+          "collection": "bk1",
           "number": 105,
           "filename": "bk1-105p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1106",
+          "collection": "bk1",
           "number": 106,
           "filename": "bk1-106.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1106p",
+          "collection": "bk1",
           "number": 106,
           "filename": "bk1-106p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1107",
+          "collection": "bk1",
           "number": 107,
           "filename": "bk1-107.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1108",
+          "collection": "bk1",
           "number": 108,
           "filename": "bk1-108.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1109",
+          "collection": "bk1",
           "number": 109,
           "filename": "bk1-109.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1110",
+          "collection": "bk1",
           "number": 110,
           "filename": "bk1-110.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1111",
+          "collection": "bk1",
           "number": 111,
           "filename": "bk1-111.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1112",
+          "collection": "bk1",
           "number": 112,
           "filename": "bk1-112.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1112p",
+          "collection": "bk1",
           "number": 112,
           "filename": "bk1-112p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1113",
+          "collection": "bk1",
           "number": 113,
           "filename": "bk1-113.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1113p",
+          "collection": "bk1",
           "number": 113,
           "filename": "bk1-113p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1114",
+          "collection": "bk1",
           "number": 114,
           "filename": "bk1-114.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1115",
+          "collection": "bk1",
           "number": 115,
           "filename": "bk1-115.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1116",
+          "collection": "bk1",
           "number": 116,
           "filename": "bk1-116.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1116p",
+          "collection": "bk1",
           "number": 116,
           "filename": "bk1-116p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1117",
+          "collection": "bk1",
           "number": 117,
           "filename": "bk1-117.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1118",
+          "collection": "bk1",
           "number": 118,
           "filename": "bk1-118.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1119",
+          "collection": "bk1",
           "number": 119,
           "filename": "bk1-119.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1120",
+          "collection": "bk1",
           "number": 120,
           "filename": "bk1-120.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1121",
+          "collection": "bk1",
           "number": 121,
           "filename": "bk1-121.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1122",
+          "collection": "bk1",
           "number": 122,
           "filename": "bk1-122.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1123",
+          "collection": "bk1",
           "number": 123,
           "filename": "bk1-123.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1124",
+          "collection": "bk1",
           "number": 124,
           "filename": "bk1-124.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1125",
+          "collection": "bk1",
           "number": 125,
           "filename": "bk1-125.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1126",
+          "collection": "bk1",
           "number": 126,
           "filename": "bk1-126.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1127",
+          "collection": "bk1",
           "number": 127,
           "filename": "bk1-127.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1128",
+          "collection": "bk1",
           "number": 128,
           "filename": "bk1-128.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1128p",
+          "collection": "bk1",
           "number": 128,
           "filename": "bk1-128p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1129",
+          "collection": "bk1",
           "number": 129,
           "filename": "bk1-129.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1129p",
+          "collection": "bk1",
           "number": 129,
           "filename": "bk1-129p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1130",
+          "collection": "bk1",
           "number": 130,
           "filename": "bk1-130.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1130p",
+          "collection": "bk1",
           "number": 130,
           "filename": "bk1-130p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1131",
+          "collection": "bk1",
           "number": 131,
           "filename": "bk1-131.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1132",
+          "collection": "bk1",
           "number": 132,
           "filename": "bk1-132.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1132p",
+          "collection": "bk1",
           "number": 132,
           "filename": "bk1-132p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1133",
+          "collection": "bk1",
           "number": 133,
           "filename": "bk1-133.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1134",
+          "collection": "bk1",
           "number": 134,
           "filename": "bk1-134.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1134p",
+          "collection": "bk1",
           "number": 134,
           "filename": "bk1-134p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1135",
+          "collection": "bk1",
           "number": 135,
           "filename": "bk1-135.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1136",
+          "collection": "bk1",
           "number": 136,
           "filename": "bk1-136.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1136p",
+          "collection": "bk1",
           "number": 136,
           "filename": "bk1-136p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1137",
+          "collection": "bk1",
           "number": 137,
           "filename": "bk1-137.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1138",
+          "collection": "bk1",
           "number": 138,
           "filename": "bk1-138.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1138p",
+          "collection": "bk1",
           "number": 138,
           "filename": "bk1-138p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1139",
+          "collection": "bk1",
           "number": 139,
           "filename": "bk1-139.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1140",
+          "collection": "bk1",
           "number": 140,
           "filename": "bk1-140.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1140p",
+          "collection": "bk1",
           "number": 140,
           "filename": "bk1-140p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1141",
+          "collection": "bk1",
           "number": 141,
           "filename": "bk1-141.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1142",
+          "collection": "bk1",
           "number": 142,
           "filename": "bk1-142.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1142p",
+          "collection": "bk1",
           "number": 142,
           "filename": "bk1-142p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1143",
+          "collection": "bk1",
           "number": 143,
           "filename": "bk1-143.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1144",
+          "collection": "bk1",
           "number": 144,
           "filename": "bk1-144.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1145",
+          "collection": "bk1",
           "number": 145,
           "filename": "bk1-145.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1146",
+          "collection": "bk1",
           "number": 146,
           "filename": "bk1-146.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1147",
+          "collection": "bk1",
           "number": 147,
           "filename": "bk1-147.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1148",
+          "collection": "bk1",
           "number": 148,
           "filename": "bk1-148.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1149",
+          "collection": "bk1",
           "number": 149,
           "filename": "bk1-149.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1150",
+          "collection": "bk1",
           "number": 150,
           "filename": "bk1-150.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1151",
+          "collection": "bk1",
           "number": 151,
           "filename": "bk1-151.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1152",
+          "collection": "bk1",
           "number": 152,
           "filename": "bk1-152.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1153",
+          "collection": "bk1",
           "number": 153,
           "filename": "bk1-153.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1154",
+          "collection": "bk1",
           "number": 154,
           "filename": "bk1-154.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1155",
+          "collection": "bk1",
           "number": 155,
           "filename": "bk1-155.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1156",
+          "collection": "bk1",
           "number": 156,
           "filename": "bk1-156.jpg",
           "rarity": "Uncommon"
         },
         {
           "id": "bk1157",
+          "collection": "bk1",
           "number": 157,
           "filename": "bk1-157.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1158",
+          "collection": "bk1",
           "number": 158,
           "filename": "bk1-158.jpg",
           "rarity": "Rare"
         },
         {
           "id": "bk1158p",
+          "collection": "bk1",
           "number": 158,
           "filename": "bk1-158p.jpg",
           "rarity": "Rare (Parallel)"
         },
         {
           "id": "bk1159",
+          "collection": "bk1",
           "number": 159,
           "filename": "bk1-159.jpg",
           "rarity": "Common"
         },
         {
           "id": "bk1160",
+          "collection": "bk1",
           "number": 160,
           "filename": "bk1-160.jpg",
           "rarity": "Common"
         }
       ]
+    },
+    {
+      "id": "bk2",
+      "total": "84",
+      "rarities": {
+        "common": [
+          "bk201",
+          "bk209",
+          "bk211",
+          "bk212",
+          "bk213",
+          "bk214",
+          "bk215",
+          "bk217",
+          "bk226",
+          "bk227",
+          "bk228",
+          "bk229",
+          "bk231",
+          "bk233",
+          "bk234",
+          "bk236",
+          "bk244",
+          "bk245",
+          "bk249",
+          "bk256",
+          "bk257",
+          "bk259",
+          "bk261",
+          "bk264"
+        ],
+        "uncommon": [
+          "bk210",
+          "bk216",
+          "bk220",
+          "bk222",
+          "bk224",
+          "bk225",
+          "bk230",
+          "bk235",
+          "bk237",
+          "bk238",
+          "bk242",
+          "bk243",
+          "bk247",
+          "bk248",
+          "bk251",
+          "bk252",
+          "bk253",
+          "bk254",
+          "bk255",
+          "bk263"
+        ],
+        "rare": [
+          "bk202",
+          "bk203",
+          "bk204",
+          "bk205",
+          "bk206",
+          "bk207",
+          "bk208",
+          "bk218",
+          "bk219",
+          "bk221",
+          "bk223",
+          "bk232",
+          "bk239",
+          "bk240",
+          "bk241",
+          "bk246",
+          "bk250",
+          "bk258",
+          "bk260",
+          "bk262"
+        ],
+        "rare_parallel": [
+          "bk202p",
+          "bk203p",
+          "bk204p",
+          "bk205p",
+          "bk206p",
+          "bk207p",
+          "bk208p",
+          "bk218p",
+          "bk219p",
+          "bk221p",
+          "bk223p",
+          "bk232p",
+          "bk239p",
+          "bk240p",
+          "bk241p",
+          "bk246p",
+          "bk250p",
+          "bk258p",
+          "bk260p",
+          "bk262p"
+        ]
+      },
+      "cards": [
+        {
+          "id": "bk201",
+          "collection": "bk2",
+          "number": 1,
+          "filename": "bk2-01.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk202",
+          "collection": "bk2",
+          "number": 2,
+          "filename": "bk2-02.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk202p",
+          "collection": "bk2",
+          "number": 2,
+          "filename": "bk2-02p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk203",
+          "collection": "bk2",
+          "number": 3,
+          "filename": "bk2-03.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk203p",
+          "collection": "bk2",
+          "number": 3,
+          "filename": "bk2-03p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk204",
+          "collection": "bk2",
+          "number": 4,
+          "filename": "bk2-04.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk204p",
+          "collection": "bk2",
+          "number": 4,
+          "filename": "bk2-04p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk205",
+          "collection": "bk2",
+          "number": 5,
+          "filename": "bk2-05.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk205p",
+          "collection": "bk2",
+          "number": 5,
+          "filename": "bk2-05p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk206",
+          "collection": "bk2",
+          "number": 6,
+          "filename": "bk2-06.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk206p",
+          "collection": "bk2",
+          "number": 6,
+          "filename": "bk2-06p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk207",
+          "collection": "bk2",
+          "number": 7,
+          "filename": "bk2-07.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk207p",
+          "collection": "bk2",
+          "number": 7,
+          "filename": "bk2-07p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk208",
+          "collection": "bk2",
+          "number": 8,
+          "filename": "bk2-08.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk208p",
+          "collection": "bk2",
+          "number": 8,
+          "filename": "bk2-08p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk209",
+          "collection": "bk2",
+          "number": 9,
+          "filename": "bk2-09.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk210",
+          "collection": "bk2",
+          "number": 10,
+          "filename": "bk2-10.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk211",
+          "collection": "bk2",
+          "number": 11,
+          "filename": "bk2-11.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk212",
+          "collection": "bk2",
+          "number": 12,
+          "filename": "bk2-12.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk213",
+          "collection": "bk2",
+          "number": 13,
+          "filename": "bk2-13.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk214",
+          "collection": "bk2",
+          "number": 14,
+          "filename": "bk2-14.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk215",
+          "collection": "bk2",
+          "number": 15,
+          "filename": "bk2-15.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk216",
+          "collection": "bk2",
+          "number": 16,
+          "filename": "bk2-16.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk217",
+          "collection": "bk2",
+          "number": 17,
+          "filename": "bk2-17.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk218",
+          "collection": "bk2",
+          "number": 18,
+          "filename": "bk2-18.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk218p",
+          "collection": "bk2",
+          "number": 18,
+          "filename": "bk2-18p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk219",
+          "collection": "bk2",
+          "number": 19,
+          "filename": "bk2-19.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk219p",
+          "collection": "bk2",
+          "number": 19,
+          "filename": "bk2-19p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk220",
+          "collection": "bk2",
+          "number": 20,
+          "filename": "bk2-20.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk221",
+          "collection": "bk2",
+          "number": 21,
+          "filename": "bk2-21.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk221p",
+          "collection": "bk2",
+          "number": 21,
+          "filename": "bk2-21p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk222",
+          "collection": "bk2",
+          "number": 22,
+          "filename": "bk2-22.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk223",
+          "collection": "bk2",
+          "number": 23,
+          "filename": "bk2-23.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk223p",
+          "collection": "bk2",
+          "number": 23,
+          "filename": "bk2-23p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk224",
+          "collection": "bk2",
+          "number": 24,
+          "filename": "bk2-24.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk225",
+          "collection": "bk2",
+          "number": 25,
+          "filename": "bk2-25.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk226",
+          "collection": "bk2",
+          "number": 26,
+          "filename": "bk2-26.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk227",
+          "collection": "bk2",
+          "number": 27,
+          "filename": "bk2-27.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk228",
+          "collection": "bk2",
+          "number": 28,
+          "filename": "bk2-28.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk229",
+          "collection": "bk2",
+          "number": 29,
+          "filename": "bk2-29.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk230",
+          "collection": "bk2",
+          "number": 30,
+          "filename": "bk2-30.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk231",
+          "collection": "bk2",
+          "number": 31,
+          "filename": "bk2-31.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk232",
+          "collection": "bk2",
+          "number": 32,
+          "filename": "bk2-32.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk232p",
+          "collection": "bk2",
+          "number": 32,
+          "filename": "bk2-32p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk233",
+          "collection": "bk2",
+          "number": 33,
+          "filename": "bk2-33.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk234",
+          "collection": "bk2",
+          "number": 34,
+          "filename": "bk2-34.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk235",
+          "collection": "bk2",
+          "number": 35,
+          "filename": "bk2-35.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk236",
+          "collection": "bk2",
+          "number": 36,
+          "filename": "bk2-36.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk237",
+          "collection": "bk2",
+          "number": 37,
+          "filename": "bk2-37.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk238",
+          "collection": "bk2",
+          "number": 38,
+          "filename": "bk2-38.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk239",
+          "collection": "bk2",
+          "number": 39,
+          "filename": "bk2-39.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk239p",
+          "collection": "bk2",
+          "number": 39,
+          "filename": "bk2-39p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk240",
+          "collection": "bk2",
+          "number": 40,
+          "filename": "bk2-40.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk240p",
+          "collection": "bk2",
+          "number": 40,
+          "filename": "bk2-40p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk241",
+          "collection": "bk2",
+          "number": 41,
+          "filename": "bk2-41.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk241p",
+          "collection": "bk2",
+          "number": 41,
+          "filename": "bk2-41p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk242",
+          "collection": "bk2",
+          "number": 42,
+          "filename": "bk2-42.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk243",
+          "collection": "bk2",
+          "number": 43,
+          "filename": "bk2-43.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk244",
+          "collection": "bk2",
+          "number": 44,
+          "filename": "bk2-44.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk245",
+          "collection": "bk2",
+          "number": 45,
+          "filename": "bk2-45.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk246",
+          "collection": "bk2",
+          "number": 46,
+          "filename": "bk2-46.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk246p",
+          "collection": "bk2",
+          "number": 46,
+          "filename": "bk2-46p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk247",
+          "collection": "bk2",
+          "number": 47,
+          "filename": "bk2-47.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk248",
+          "collection": "bk2",
+          "number": 48,
+          "filename": "bk2-48.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk249",
+          "collection": "bk2",
+          "number": 49,
+          "filename": "bk2-49.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk250",
+          "collection": "bk2",
+          "number": 50,
+          "filename": "bk2-50.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk250p",
+          "collection": "bk2",
+          "number": 50,
+          "filename": "bk2-50p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk251",
+          "collection": "bk2",
+          "number": 51,
+          "filename": "bk2-51.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk252",
+          "collection": "bk2",
+          "number": 52,
+          "filename": "bk2-52.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk253",
+          "collection": "bk2",
+          "number": 53,
+          "filename": "bk2-53.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk254",
+          "collection": "bk2",
+          "number": 54,
+          "filename": "bk2-54.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk255",
+          "collection": "bk2",
+          "number": 55,
+          "filename": "bk2-55.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk256",
+          "collection": "bk2",
+          "number": 56,
+          "filename": "bk2-56.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk257",
+          "collection": "bk2",
+          "number": 57,
+          "filename": "bk2-57.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk258",
+          "collection": "bk2",
+          "number": 58,
+          "filename": "bk2-58.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk258p",
+          "collection": "bk2",
+          "number": 58,
+          "filename": "bk2-58p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk259",
+          "collection": "bk2",
+          "number": 59,
+          "filename": "bk2-59.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk260",
+          "collection": "bk2",
+          "number": 60,
+          "filename": "bk2-60.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk260p",
+          "collection": "bk2",
+          "number": 60,
+          "filename": "bk2-60p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk261",
+          "collection": "bk2",
+          "number": 61,
+          "filename": "bk2-61.jpg",
+          "rarity": "Common"
+        },
+        {
+          "id": "bk262",
+          "collection": "bk2",
+          "number": 62,
+          "filename": "bk2-62.jpg",
+          "rarity": "Rare"
+        },
+        {
+          "id": "bk262p",
+          "collection": "bk2",
+          "number": 62,
+          "filename": "bk2-62p.jpg",
+          "rarity": "Rare (Parallel)"
+        },
+        {
+          "id": "bk263",
+          "collection": "bk2",
+          "number": 63,
+          "filename": "bk2-63.jpg",
+          "rarity": "Uncommon"
+        },
+        {
+          "id": "bk264",
+          "collection": "bk2",
+          "number": 64,
+          "filename": "bk2-64.jpg",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "bk3",
+      "total": "84",
+      "rarities": {
+        "common": [
+          "bk201",
+          "bk209",
+          "bk211",
+          "bk212",
+          "bk213",
+          "bk214",
+          "bk215",
+          "bk217",
+          "bk226",
+          "bk227",
+          "bk228",
+          "bk229",
+          "bk231",
+          "bk233",
+          "bk234",
+          "bk236",
+          "bk244",
+          "bk245",
+          "bk249",
+          "bk256",
+          "bk257",
+          "bk259",
+          "bk261",
+          "bk264"
+        ],
+        "uncommon": [
+          "bk210",
+          "bk216",
+          "bk220",
+          "bk222",
+          "bk224",
+          "bk225",
+          "bk230",
+          "bk235",
+          "bk237",
+          "bk238",
+          "bk242",
+          "bk243",
+          "bk247",
+          "bk248",
+          "bk251",
+          "bk252",
+          "bk253",
+          "bk254",
+          "bk255",
+          "bk263"
+        ],
+        "rare": [
+          "bk202",
+          "bk203",
+          "bk204",
+          "bk205",
+          "bk206",
+          "bk207",
+          "bk208",
+          "bk218",
+          "bk219",
+          "bk221",
+          "bk223",
+          "bk232",
+          "bk239",
+          "bk240",
+          "bk241",
+          "bk246",
+          "bk250",
+          "bk258",
+          "bk260",
+          "bk262"
+        ],
+        "rare_parallel": [
+          "bk202p",
+          "bk203p",
+          "bk204p",
+          "bk205p",
+          "bk206p",
+          "bk207p",
+          "bk208p",
+          "bk218p",
+          "bk219p",
+          "bk221p",
+          "bk223p",
+          "bk232p",
+          "bk239p",
+          "bk240p",
+          "bk241p",
+          "bk246p",
+          "bk250p",
+          "bk258p",
+          "bk260p",
+          "bk262p"
+        ]
+      },
+      "cards": []
+    },
+    {
+      "id": "bk4",
+      "total": "84",
+      "rarities": {
+        "common": [
+          "bk201",
+          "bk209",
+          "bk211",
+          "bk212",
+          "bk213",
+          "bk214",
+          "bk215",
+          "bk217",
+          "bk226",
+          "bk227",
+          "bk228",
+          "bk229",
+          "bk231",
+          "bk233",
+          "bk234",
+          "bk236",
+          "bk244",
+          "bk245",
+          "bk249",
+          "bk256",
+          "bk257",
+          "bk259",
+          "bk261",
+          "bk264"
+        ],
+        "uncommon": [
+          "bk210",
+          "bk216",
+          "bk220",
+          "bk222",
+          "bk224",
+          "bk225",
+          "bk230",
+          "bk235",
+          "bk237",
+          "bk238",
+          "bk242",
+          "bk243",
+          "bk247",
+          "bk248",
+          "bk251",
+          "bk252",
+          "bk253",
+          "bk254",
+          "bk255",
+          "bk263"
+        ],
+        "rare": [
+          "bk202",
+          "bk203",
+          "bk204",
+          "bk205",
+          "bk206",
+          "bk207",
+          "bk208",
+          "bk218",
+          "bk219",
+          "bk221",
+          "bk223",
+          "bk232",
+          "bk239",
+          "bk240",
+          "bk241",
+          "bk246",
+          "bk250",
+          "bk258",
+          "bk260",
+          "bk262"
+        ],
+        "rare_parallel": [
+          "bk202p",
+          "bk203p",
+          "bk204p",
+          "bk205p",
+          "bk206p",
+          "bk207p",
+          "bk208p",
+          "bk218p",
+          "bk219p",
+          "bk221p",
+          "bk223p",
+          "bk232p",
+          "bk239p",
+          "bk240p",
+          "bk241p",
+          "bk246p",
+          "bk250p",
+          "bk258p",
+          "bk260p",
+          "bk262p"
+        ]
+      },
+      "cards": []
+    },
+    {
+      "id": "bk5",
+      "total": "84",
+      "rarities": {
+        "common": [
+          "bk201",
+          "bk209",
+          "bk211",
+          "bk212",
+          "bk213",
+          "bk214",
+          "bk215",
+          "bk217",
+          "bk226",
+          "bk227",
+          "bk228",
+          "bk229",
+          "bk231",
+          "bk233",
+          "bk234",
+          "bk236",
+          "bk244",
+          "bk245",
+          "bk249",
+          "bk256",
+          "bk257",
+          "bk259",
+          "bk261",
+          "bk264"
+        ],
+        "uncommon": [
+          "bk210",
+          "bk216",
+          "bk220",
+          "bk222",
+          "bk224",
+          "bk225",
+          "bk230",
+          "bk235",
+          "bk237",
+          "bk238",
+          "bk242",
+          "bk243",
+          "bk247",
+          "bk248",
+          "bk251",
+          "bk252",
+          "bk253",
+          "bk254",
+          "bk255",
+          "bk263"
+        ],
+        "rare": [
+          "bk202",
+          "bk203",
+          "bk204",
+          "bk205",
+          "bk206",
+          "bk207",
+          "bk208",
+          "bk218",
+          "bk219",
+          "bk221",
+          "bk223",
+          "bk232",
+          "bk239",
+          "bk240",
+          "bk241",
+          "bk246",
+          "bk250",
+          "bk258",
+          "bk260",
+          "bk262"
+        ],
+        "rare_parallel": [
+          "bk202p",
+          "bk203p",
+          "bk204p",
+          "bk205p",
+          "bk206p",
+          "bk207p",
+          "bk208p",
+          "bk218p",
+          "bk219p",
+          "bk221p",
+          "bk223p",
+          "bk232p",
+          "bk239p",
+          "bk240p",
+          "bk241p",
+          "bk246p",
+          "bk250p",
+          "bk258p",
+          "bk260p",
+          "bk262p"
+        ]
+      },
+      "cards": []
     }
   ]
 }

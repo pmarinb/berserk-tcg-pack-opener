@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { getClassForItem } from "../util";
 import ImageModal from "./imageModal";
 
-function Card({ card, inList }) {
+function Card({ card, inList, displayAll }) {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [selectedCard, setSelectedCard] = useState(null);
 
@@ -21,14 +21,19 @@ function Card({ card, inList }) {
     <>
       {isModalOpen && <ImageModal card={selectedCard} onClose={closeModal} />}
       <div className="cardWrap" onClick={() => openModal(card)}>
-        <div className="card" style={{ opacity: inList ? 1 : 0.1 }}>
+        <div
+          className="card"
+          style={{ opacity: displayAll ? 1 : inList ? 1 : 0.1 }}
+        >
           {card.rarity === "Rare (Parallel)" ? (
             <div class="holo-overlay"></div>
           ) : (
             <></>
           )}
           <img
-            src={require(`${"./static/images/bk1/" + card.filename}`)}
+            src={require(`${
+              "./static/images/" + card.collection + "/" + card.filename
+            }`)}
             alt={card.filename}
           />
         </div>
@@ -43,7 +48,5 @@ function Card({ card, inList }) {
     </>
   );
 }
-// {require(`${
-//     "../static/images/" + data.collections[0].id + "/" + card.filename
-//   }`)}
+
 export default Card;
