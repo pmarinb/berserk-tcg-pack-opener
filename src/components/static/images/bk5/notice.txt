@@ -1,0 +1,1 @@
+since card 67 parallel was missing, i just duplicated 67 normal version. the difference is minimal
