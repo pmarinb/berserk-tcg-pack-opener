@@ -1,0 +1,1 @@
+since card 51 parallel was missing, i just duplicated 51 normal version. the difference is minimal
